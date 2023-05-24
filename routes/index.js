@@ -31,7 +31,7 @@ router.get('/getBiblebookchapter/:cid/:chapterid', async(req, res) => {
    // res.json(data)
    console.log(data.chapters[req.params.chapterid-1])
 
-    res.render('biblebookchapter', { articles : data, chapterdata : data.chapters[req.params.chapterid-1], title: 'Bible' })
+    res.render('biblebookchapter', { articles : data, chapterno: req.params.chapterid, chapterdata : data.chapters[req.params.chapterid-1], title: 'Bible' })
 }
 catch(error){
     res.status(500).json({message: error.message})
