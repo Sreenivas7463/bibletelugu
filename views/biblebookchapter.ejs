@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %> | <%= articles.book.telugu %> - <%= articles.book.english %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+   
+   <h1>
+       
+
+        <%= articles.book.telugu %> - <%= articles.book.english %>
+        <br/>
+        <small class="sml">Total Chapters: <%= articles.count %></small>
+    </h1>
+
+   
+    <h2>Chapter <%= chapterdata.chapter %> - <small class="sml"> Total Verse <%= chapterdata.verses.length %></small></h2>
+   
+    <% chapterdata.verses.forEach(function(article, index) { %>
+      <p>
+        <%= chapterdata.verses[index].verse %>. <%= chapterdata.verses[index].text %>
+      </p>
+    <% }) %>
+  </body>
+</html>

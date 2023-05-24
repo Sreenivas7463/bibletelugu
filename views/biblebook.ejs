@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %> | <%= articles.book.telugu %> - <%= articles.book.english %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+   
+   <h1>
+       
+
+        <%= articles.book.telugu %> - <%= articles.book.english %>
+        <br/>
+        <small>Total Chapters: <%= articles.count %></small>
+    </h1>
+
+   
+    <% if(articles.chapters != null) { %>
+        <% articles.chapters.forEach(function(article, index) { %>
+           
+           <h2>Chapter <%= articles.chapters[index].chapter %> - <small class="sml">Total Verses: <%= articles.chapters[index].verses.length %></small></h2>
+           
+           
+           <% articles.chapters[index].verses.forEach(function(article, indexv) { %>
+            <p>
+             <%= articles.chapters[index].verses[indexv].verse %>. <%= articles.chapters[index].verses[indexv].text %>
+            </p>
+           <% }) %>
+           <br/>
+        <% }) %>
+        <% } else { %>
+            No posts found.
+        <% } %>
+  </body>
+</html>
