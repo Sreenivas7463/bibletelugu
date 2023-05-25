@@ -18,4 +18,6 @@
 [16.నెహెమ్యా - Nehemiah](https://bibletelugu.vercel.app/api/getBiblebook/646efeccab7cb041c05b57ba)\
 [17.ఎస్తేరు - Esther](https://bibletelugu.vercel.app/api/getBiblebook/646eff75ab7cb041c05b57bb)\
 [18.యోబు గ్రంథము - Job](https://bibletelugu.vercel.app/api/getBiblebook/646f004eab7cb041c05b57bc)\
-[19.కీర్తనల గ్రంథము - Psalms](https://bibletelugu.vercel.app/api/getBiblebook/646f0146ab7cb041c05b57bd)
+[19.కీర్తనల గ్రంథము - Psalms](https://bibletelugu.vercel.app/api/getBiblebook/646f0146ab7cb041c05b57bd)\
+[20.సామెతలు - Proverbs](https://bibletelugu.vercel.app/api/getBiblebook/646f071dab7cb041c05b57be)\
+[21.ప్రసంగి - Ecclesiastes](https://bibletelugu.vercel.app/api/getBiblebook/646f0900ab7cb041c05b57bf)
