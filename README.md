@@ -54,11 +54,11 @@
 [48.గలతీయులకు - Galatians](https://bibletelugu.vercel.app/api/getBiblebook/646f56cbab7cb041c05b57db)\
 [49.ఎఫెసీయులకు - Ephesians](https://bibletelugu.vercel.app/api/getBiblebook/646f5765ab7cb041c05b57dc)\
 [50.ఫిలిప్పీయులకు - Philippians](https://bibletelugu.vercel.app/api/getBiblebook/646f57d8ab7cb041c05b57dd)\
-[51.]()\
-[52.]()\
-[53.]()\
-[54.]()\
-[55.]()\
+[51.కొలొస్సయులకు - Colossians](https://bibletelugu.vercel.app/api/getBiblebook/646f794919e96d6acbbf01db)\
+[52.1 థెస్సలొనీకయులకు - 1 Thessalonians](https://bibletelugu.vercel.app/api/getBiblebook/646f79f219e96d6acbbf01dc)\
+[53.2 థెస్సలొనీకయులకు - 2 Thessalonians](https://bibletelugu.vercel.app/api/getBiblebook/646f79f919e96d6acbbf01dd)\
+[54.1 తిమోతికి - 1 Timothy](https://bibletelugu.vercel.app/api/getBiblebook/646f7aa419e96d6acbbf01de)\
+[55.2 తిమోతికి - 2 Timothy](https://bibletelugu.vercel.app/api/getBiblebook/646f7aae19e96d6acbbf01df)\
 [56.]()\
 [57.]()\
 [58.]()\
