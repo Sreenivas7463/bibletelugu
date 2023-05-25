@@ -30,5 +30,6 @@
 [28.హొషేయ - Hosea](https://bibletelugu.vercel.app/api/getBiblebook/646f1a3dab7cb041c05b57c7)\
 [29.యోవేలు - Joel](https://bibletelugu.vercel.app/api/getBiblebook/646f1accab7cb041c05b57c8)\
 [30.ఆమోసు - Amos](https://bibletelugu.vercel.app/api/getBiblebook/646f1b55ab7cb041c05b57c9)\
-[31.ఓబద్యా - Obadiah](https://bibletelugu.vercel.app/api/getBiblebook/646f27b4ab7cb041c05b57ca)
+[31.ఓబద్యా - Obadiah](https://bibletelugu.vercel.app/api/getBiblebook/646f27b4ab7cb041c05b57ca)\
+[32.యోనా - Jonah](https://bibletelugu.vercel.app/api/getBiblebook/646f2888ab7cb041c05b57cb)
 
