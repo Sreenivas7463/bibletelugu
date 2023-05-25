@@ -36,5 +36,7 @@
 [34.నహూము - Nahum](https://bibletelugu.vercel.app/api/getBiblebook/646f40c6ab7cb041c05b57cd)\
 [35.హబక్కూకు - Habakkuk](https://bibletelugu.vercel.app/api/getBiblebook/646f4292ab7cb041c05b57ce)\
 [36.జెఫన్యా - Zephaniah](https://bibletelugu.vercel.app/api/getBiblebook/646f4396ab7cb041c05b57cf)\
-[37.హగ్గయి - Haggai](https://bibletelugu.vercel.app/api/getBiblebook/646f445dab7cb041c05b57d0)
+[37.హగ్గయి - Haggai](https://bibletelugu.vercel.app/api/getBiblebook/646f445dab7cb041c05b57d0)\
+[38.జెకర్యా - Zechariah](https://bibletelugu.vercel.app/api/getBiblebook/646f4562ab7cb041c05b57d1)\
+[39.మలాకీ - Malachi](https://bibletelugu.vercel.app/api/getBiblebook/646f456dab7cb041c05b57d2)
 
