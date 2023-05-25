@@ -32,5 +32,6 @@
 [30.ఆమోసు - Amos](https://bibletelugu.vercel.app/api/getBiblebook/646f1b55ab7cb041c05b57c9)\
 [31.ఓబద్యా - Obadiah](https://bibletelugu.vercel.app/api/getBiblebook/646f27b4ab7cb041c05b57ca)\
 [32.యోనా - Jonah](https://bibletelugu.vercel.app/api/getBiblebook/646f2888ab7cb041c05b57cb)\
-[33.మీకా - Micah](https://bibletelugu.vercel.app/api/getBiblebook/646f295cab7cb041c05b57cc)
+[33.మీకా - Micah](https://bibletelugu.vercel.app/api/getBiblebook/646f295cab7cb041c05b57cc)\
+[34.నహూము - Nahum](https://bibletelugu.vercel.app/api/getBiblebook/646f40c6ab7cb041c05b57cd)
 
