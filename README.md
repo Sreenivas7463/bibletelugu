@@ -45,8 +45,8 @@
 
 [40.మత్తయి సువార్త - Matthew](https://bibletelugu.vercel.app/api/getBiblebook/646f4e9dab7cb041c05b57d3)\
 [41.మార్కు సువార్త - Mark](https://bibletelugu.vercel.app/api/getBiblebook/646f4f2fab7cb041c05b57d4)\
-[42.]()\
-[43.]()\
+[42.లూకా సువార్త - Luke](https://bibletelugu.vercel.app/api/getBiblebook/646f516eab7cb041c05b57d5)\
+[43.యోహాను సువార్త - John](https://bibletelugu.vercel.app/api/getBiblebook/646f523fab7cb041c05b57d6)\
 [44.]()\
 [45.]()\
 [46.]()\
