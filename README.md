@@ -51,9 +51,9 @@
 [45.రోమీయులకు - Romans](https://bibletelugu.vercel.app/api/getBiblebook/646f539eab7cb041c05b57d8)\
 [46.1 కొరింథీయులకు - 1 Corinthians](https://bibletelugu.vercel.app/api/getBiblebook/646f544eab7cb041c05b57d9)\
 [47.2 కొరింథీయులకు - 2 Corinthians](https://bibletelugu.vercel.app/api/getBiblebook/646f54ceab7cb041c05b57da)\
-[48.]()\
-[49.]()\
-[50.]()\
+[48.గలతీయులకు - Galatians](https://bibletelugu.vercel.app/api/getBiblebook/646f56cbab7cb041c05b57db)\
+[49.ఎఫెసీయులకు - Ephesians](https://bibletelugu.vercel.app/api/getBiblebook/646f5765ab7cb041c05b57dc)\
+[50.ఫిలిప్పీయులకు - Philippians](https://bibletelugu.vercel.app/api/getBiblebook/646f57d8ab7cb041c05b57dd)\
 [51.]()\
 [52.]()\
 [53.]()\
