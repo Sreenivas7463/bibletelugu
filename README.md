@@ -47,10 +47,10 @@
 [41.మార్కు సువార్త - Mark](https://bibletelugu.vercel.app/api/getBiblebook/646f4f2fab7cb041c05b57d4)\
 [42.లూకా సువార్త - Luke](https://bibletelugu.vercel.app/api/getBiblebook/646f516eab7cb041c05b57d5)\
 [43.యోహాను సువార్త - John](https://bibletelugu.vercel.app/api/getBiblebook/646f523fab7cb041c05b57d6)\
-[44.]()\
-[45.]()\
-[46.]()\
-[47.]()\
+[44.అపొస్తలుల కార్యములు - Acts](https://bibletelugu.vercel.app/api/getBiblebook/646f5323ab7cb041c05b57d7)\
+[45.రోమీయులకు - Romans](https://bibletelugu.vercel.app/api/getBiblebook/646f539eab7cb041c05b57d8)\
+[46.1 కొరింథీయులకు - 1 Corinthians](https://bibletelugu.vercel.app/api/getBiblebook/646f544eab7cb041c05b57d9)\
+[47.2 కొరింథీయులకు - 2 Corinthians](https://bibletelugu.vercel.app/api/getBiblebook/646f54ceab7cb041c05b57da)\
 [48.]()\
 [49.]()\
 [50.]()\
