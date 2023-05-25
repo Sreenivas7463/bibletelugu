@@ -22,4 +22,5 @@
 [20.సామెతలు - Proverbs](https://bibletelugu.vercel.app/api/getBiblebook/646f071dab7cb041c05b57be)\
 [21.ప్రసంగి - Ecclesiastes](https://bibletelugu.vercel.app/api/getBiblebook/646f0900ab7cb041c05b57bf)\
 [22.పరమగీతము - Song of Songs](https://bibletelugu.vercel.app/api/getBiblebook/646f0b79ab7cb041c05b57c1)\
-[23.యెషయా గ్రంథము - Isaiah](https://bibletelugu.vercel.app/api/getBiblebook/646f0c6bab7cb041c05b57c2)
+[23.యెషయా గ్రంథము - Isaiah](https://bibletelugu.vercel.app/api/getBiblebook/646f0c6bab7cb041c05b57c2)\
+[24.యిర్మీయా - Jeremiah](https://bibletelugu.vercel.app/api/getBiblebook/646f1202ab7cb041c05b57c3)
