@@ -28,4 +28,6 @@
 [26.యెహెజ్కేలు - Ezekiel](https://bibletelugu.vercel.app/api/getBiblebook/646f13cfab7cb041c05b57c5)\
 [27.దానియేలు - Daniel](https://bibletelugu.vercel.app/api/getBiblebook/646f15baab7cb041c05b57c6)\
 [28.హొషేయ - Hosea](https://bibletelugu.vercel.app/api/getBiblebook/646f1a3dab7cb041c05b57c7)\
-[29.యోవేలు - Joel](https://bibletelugu.vercel.app/api/getBiblebook/646f1accab7cb041c05b57c8)
+[29.యోవేలు - Joel](https://bibletelugu.vercel.app/api/getBiblebook/646f1accab7cb041c05b57c8)\
+[30.ఆమోసు - Amos](https://bibletelugu.vercel.app/api/getBiblebook/646f1b55ab7cb041c05b57c9)
+
