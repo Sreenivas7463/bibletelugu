@@ -59,15 +59,15 @@
 [53.2 థెస్సలొనీకయులకు - 2 Thessalonians](https://bibletelugu.vercel.app/api/getBiblebook/646f79f919e96d6acbbf01dd)\
 [54.1 తిమోతికి - 1 Timothy](https://bibletelugu.vercel.app/api/getBiblebook/646f7aa419e96d6acbbf01de)\
 [55.2 తిమోతికి - 2 Timothy](https://bibletelugu.vercel.app/api/getBiblebook/646f7aae19e96d6acbbf01df)\
-[56.]()\
-[57.]()\
-[58.]()\
-[59.]()\
-[60.]()\
-[61.]()\
-[62.]()\
-[63.]()\
-[64.]()\
+[56.తీతుకు - Titus](https://bibletelugu.vercel.app/api/getBiblebook/646f7b9b19e96d6acbbf01e0)\
+[57.ఫిలేమోనుకు - Philemon](https://bibletelugu.vercel.app/api/getBiblebook/646f7c0f19e96d6acbbf01e1)\
+[58.హెబ్రీయులకు - Hebrews](https://bibletelugu.vercel.app/api/getBiblebook/646f7c7319e96d6acbbf01e2)\
+[59.యాకోబు - James](https://bibletelugu.vercel.app/api/getBiblebook/646f7cdc19e96d6acbbf01e3)\
+[60.1 పేతురు - 1 Peter](https://bibletelugu.vercel.app/api/getBiblebook/646f7d6519e96d6acbbf01e4)\
+[61.2 పేతురు - 2 Peter](https://bibletelugu.vercel.app/api/getBiblebook/646f7d6e19e96d6acbbf01e5)\
+[62.1 యోహాను - 1 John](https://bibletelugu.vercel.app/api/getBiblebook/646f7e5719e96d6acbbf01e6)\
+[63.2 యోహాను - 2 John](https://bibletelugu.vercel.app/api/getBiblebook/646f7e5f19e96d6acbbf01e7)\
+[64.3 యోహాను - 3 John](https://bibletelugu.vercel.app/api/getBiblebook/646f7e6819e96d6acbbf01e8)\
 [65.]()\
 [66.]()
 
