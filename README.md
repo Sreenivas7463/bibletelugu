@@ -68,6 +68,6 @@
 [62.1 యోహాను - 1 John](https://bibletelugu.vercel.app/api/getBiblebook/646f7e5719e96d6acbbf01e6)\
 [63.2 యోహాను - 2 John](https://bibletelugu.vercel.app/api/getBiblebook/646f7e5f19e96d6acbbf01e7)\
 [64.3 యోహాను - 3 John](https://bibletelugu.vercel.app/api/getBiblebook/646f7e6819e96d6acbbf01e8)\
-[65.]()\
-[66.]()
+[65.యూదా - Jude](https://bibletelugu.vercel.app/api/getBiblebook/646f7f0a19e96d6acbbf01e9)\
+[66.ప్రకటన గ్రంథము - Revelation](https://bibletelugu.vercel.app/api/getBiblebook/646f7f5719e96d6acbbf01eb)
 
