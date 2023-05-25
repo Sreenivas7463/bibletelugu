@@ -15,4 +15,7 @@
 [13.దినవృత్తాంతములు మొదటి గ్రంథము - 1 Chronicles](https://bibletelugu.vercel.app/api/getBiblebook/646efd50ab7cb041c05b57b7)\
 [14.దినవృత్తాంతములు రెండవ గ్రంథము - 2 Chronicles](https://bibletelugu.vercel.app/api/getBiblebook/646efd68ab7cb041c05b57b8)\
 [15.ఎజ్రా - Ezra](https://bibletelugu.vercel.app/api/getBiblebook/646efe39ab7cb041c05b57b9)\
-[16.నెహెమ్యా - Nehemiah](https://bibletelugu.vercel.app/api/getBiblebook/646efeccab7cb041c05b57ba)
+[16.నెహెమ్యా - Nehemiah](https://bibletelugu.vercel.app/api/getBiblebook/646efeccab7cb041c05b57ba)\
+[17.ఎస్తేరు - Esther](https://bibletelugu.vercel.app/api/getBiblebook/646eff75ab7cb041c05b57bb)\
+[18.యోబు గ్రంథము - Job](https://bibletelugu.vercel.app/api/getBiblebook/646f004eab7cb041c05b57bc)\
+[19.కీర్తనల గ్రంథము - Psalms](https://bibletelugu.vercel.app/api/getBiblebook/646f0146ab7cb041c05b57bd)
