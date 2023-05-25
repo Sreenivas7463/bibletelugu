@@ -20,4 +20,5 @@
 [18.యోబు గ్రంథము - Job](https://bibletelugu.vercel.app/api/getBiblebook/646f004eab7cb041c05b57bc)\
 [19.కీర్తనల గ్రంథము - Psalms](https://bibletelugu.vercel.app/api/getBiblebook/646f0146ab7cb041c05b57bd)\
 [20.సామెతలు - Proverbs](https://bibletelugu.vercel.app/api/getBiblebook/646f071dab7cb041c05b57be)\
-[21.ప్రసంగి - Ecclesiastes](https://bibletelugu.vercel.app/api/getBiblebook/646f0900ab7cb041c05b57bf)
+[21.ప్రసంగి - Ecclesiastes](https://bibletelugu.vercel.app/api/getBiblebook/646f0900ab7cb041c05b57bf)\
+[22.పరమగీతము - Song of Songs](https://bibletelugu.vercel.app/api/getBiblebook/646f0b79ab7cb041c05b57c1)
