@@ -13,4 +13,6 @@
 [11.రాజులు మొదటి గ్రంథము - 1 Kings](https://bibletelugu.vercel.app/api/getBiblebook/646efbecab7cb041c05b57b5)\
 [12.రాజులు రెండవ గ్రంథము - 2 Kings](https://bibletelugu.vercel.app/api/getBiblebook/646efc77ab7cb041c05b57b6)\
 [13.దినవృత్తాంతములు మొదటి గ్రంథము - 1 Chronicles](https://bibletelugu.vercel.app/api/getBiblebook/646efd50ab7cb041c05b57b7)\
-[14.దినవృత్తాంతములు రెండవ గ్రంథము - 2 Chronicles](https://bibletelugu.vercel.app/api/getBiblebook/646efd68ab7cb041c05b57b8)
+[14.దినవృత్తాంతములు రెండవ గ్రంథము - 2 Chronicles](https://bibletelugu.vercel.app/api/getBiblebook/646efd68ab7cb041c05b57b8)\
+[15.ఎజ్రా - Ezra](https://bibletelugu.vercel.app/api/getBiblebook/646efe39ab7cb041c05b57b9)\
+[16.నెహెమ్యా - Nehemiah](https://bibletelugu.vercel.app/api/getBiblebook/646efeccab7cb041c05b57ba)
