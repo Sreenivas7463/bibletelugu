@@ -24,4 +24,5 @@
 [22.పరమగీతము - Song of Songs](https://bibletelugu.vercel.app/api/getBiblebook/646f0b79ab7cb041c05b57c1)\
 [23.యెషయా గ్రంథము - Isaiah](https://bibletelugu.vercel.app/api/getBiblebook/646f0c6bab7cb041c05b57c2)\
 [24.యిర్మీయా - Jeremiah](https://bibletelugu.vercel.app/api/getBiblebook/646f1202ab7cb041c05b57c3)\
-[25.విలాపవాక్యములు - Lamentations](https://bibletelugu.vercel.app/api/getBiblebook/646f12adab7cb041c05b57c4)
+[25.విలాపవాక్యములు - Lamentations](https://bibletelugu.vercel.app/api/getBiblebook/646f12adab7cb041c05b57c4)\
+[26.యెహెజ్కేలు - Ezekiel](https://bibletelugu.vercel.app/api/getBiblebook/646f13cfab7cb041c05b57c5)
