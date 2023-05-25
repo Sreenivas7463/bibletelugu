@@ -34,5 +34,6 @@
 [32.యోనా - Jonah](https://bibletelugu.vercel.app/api/getBiblebook/646f2888ab7cb041c05b57cb)\
 [33.మీకా - Micah](https://bibletelugu.vercel.app/api/getBiblebook/646f295cab7cb041c05b57cc)\
 [34.నహూము - Nahum](https://bibletelugu.vercel.app/api/getBiblebook/646f40c6ab7cb041c05b57cd)\
-[35.హబక్కూకు - Habakkuk](https://bibletelugu.vercel.app/api/getBiblebook/646f4292ab7cb041c05b57ce)
+[35.హబక్కూకు - Habakkuk](https://bibletelugu.vercel.app/api/getBiblebook/646f4292ab7cb041c05b57ce)\
+[36.జెఫన్యా - Zephaniah](https://bibletelugu.vercel.app/api/getBiblebook/646f4396ab7cb041c05b57cf)
 
