@@ -23,7 +23,7 @@ catch(error){
 })
 
 
-//Get getBiblequote by object id
+//Get getBiblbiik chapter
 router.get('/getBiblebookchapter/:cid/:chapterid', async(req, res) => {
   try{
     const data = await Bible.findById(req.params.cid);
@@ -32,6 +32,22 @@ router.get('/getBiblebookchapter/:cid/:chapterid', async(req, res) => {
    console.log(data.chapters[req.params.chapterid-1])
 
     res.render('biblebookchapter', { articles : data, chapterno: req.params.chapterid, chapterdata : data.chapters[req.params.chapterid-1], title: 'Bible' })
+}
+catch(error){
+    res.status(500).json({message: error.message})
+}
+})
+
+//Get getBiblbiik chapter verse
+router.get('/getBiblebookchapterverse/:cid/:chapterid/:vid', async(req, res) => {
+  try{
+    const data = await Bible.findById(req.params.cid);
+    
+   // res.json(data)
+   //console.log(data.chapters[req.params.chapterid-1])
+   console.log(data.chapters[req.params.chapterid-1].verses[req.params.vid-1])
+
+    res.render('biblebookchapterverse', { articles : data, chapterno: req.params.chapterid, verseid: req.params.vid-1, chapterdata : data.chapters[req.params.chapterid-1].verses[req.params.vid-1], title: 'Bible' })
 }
 catch(error){
     res.status(500).json({message: error.message})
