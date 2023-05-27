@@ -13,7 +13,9 @@
 
         <%= articles.book.telugu %> - <%= articles.book.english %>
         <br/>
-        <small class="sml">Total Chapters: <%= articles.count %></small>
+        <small class="sml">Total Chapters: <%= articles.count %> | Total Verses: <%= articles.chapters[chapterno-1].verses.length %></small>
+        
+       
     </h1>
    
 
@@ -24,7 +26,15 @@
     <%= chapterdata.verse %>. <%= chapterdata.text %>
    </h2>
   
+   <div>
    
+    <% if(articles.chapters[chapterno-1].verses.length == verseid+1) { %>
+      <h1><a href=<%= verseid+1-1 %> ><</a> <small class="sml"> End of the Chapter </small></h1> 
+    <% } %>
+   </div>
+   <% if(articles.chapters[chapterno-1].verses.length != verseid+1) { %>
+    <h1><a href=<%= verseid+1-1 %> title="Prev"><</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="../../../getBiblebookchapter/<%= chapterid %>/<%= chapterno %>"><img src="https://cdn-icons-png.flaticon.com/24/168/168214.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href=<%= verseid+1+1 %> title="Next">></a></h1>
+   <% } %>
    
   </body>
 </html>
