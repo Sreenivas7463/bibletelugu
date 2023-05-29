@@ -1,5 +1,5 @@
 # bibletelugu
-## New Testament Books
+## Old Testament Books
 
 [1.ఆదికాండము - Genesis](https://bibletelugu.vercel.app/api/getBiblebook/646e1917d5380267190dc90b)\
 [2.నిర్గమకాండము - Exodus](https://bibletelugu.vercel.app/api/getBiblebook/646e19e9d5380267190dc911)\
@@ -41,7 +41,7 @@
 [38.జెకర్యా - Zechariah](https://bibletelugu.vercel.app/api/getBiblebook/646f4562ab7cb041c05b57d1)\
 [39.మలాకీ - Malachi](https://bibletelugu.vercel.app/api/getBiblebook/646f456dab7cb041c05b57d2)
 
-## Old Testament Books
+## New Testament Books
 
 [40.మత్తయి సువార్త - Matthew](https://bibletelugu.vercel.app/api/getBiblebook/646f4e9dab7cb041c05b57d3)\
 [41.మార్కు సువార్త - Mark](https://bibletelugu.vercel.app/api/getBiblebook/646f4f2fab7cb041c05b57d4)\
