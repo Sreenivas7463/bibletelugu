@@ -61,6 +61,9 @@ router.get('/getBiblebookbyname/:nm', async(req, res) => {
     const data = await Bible.findById(req.params.nm);
    // res.json(data)
 
+    console.log(res.json(data));
+    console.log(req.params.nm);
+
     res.render('biblebook', { articles : data, title: 'Bible' })
 }
 catch(error){
