@@ -58,7 +58,7 @@ catch(error){
 //Get getBiblequote by object id
 router.get('/getBiblebookbyname/:nm', async(req, res) => {
   try{
-    const data = await Bible.findById(req.params.nm);
+    const data = await Bible.findOne(req.params.nm);
    // res.json(data)
 
     console.log(res.json(data));
